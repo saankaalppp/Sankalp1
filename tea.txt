@@ -3,5 +3,6 @@ Ingredients for tea:
 water
 tea leaves
 sugar
-ginger
 milk
+
+Thank You!
